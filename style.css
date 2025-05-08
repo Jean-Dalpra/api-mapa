@@ -1,0 +1,60 @@
+*{
+   padding: 0;
+   margin: 0; 
+}
+#map {
+    height: 100vh;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    z-index: 0;
+    position: absolute;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+#info {
+    background: #bbd1ff;
+padding: 4vh;
+color: rgb(255, 255, 255);
+width: auto;
+border-radius: 10px;
+font-size: 3vh;
+margin-top: 470px;
+z-index: 1;
+position: absolute;
+margin-left: 37vw;
+text-shadow:
+-1px -1px 0 black,
+1px -1px 0 black,
+-1px  1px 0 black,
+1px  1px 0 black,
+0px -1px 0 black,
+0px  1px 0 black,
+-1px  0px 0 black,
+1px  0px 0 black;
+}
+#aha{
+   font-size: 10vh;
+    padding: 4vh;
+    color:#bbd1ff;
+    width: 50vw;
+    border-radius: 10px;
+    margin-top: 10px;
+    z-index: 1;
+    position: absolute;
+    margin-left: 25vw;
+    text-align: center;
+    text-shadow:
+    -2px -2px 0 black,
+    2px -2px 0 black,
+   -2px  2px 0 black,
+    2px  2px 0 black,
+   0px -2px 0 black,
+   0px  2px 0 black,
+  -2px  0px 0 black,
+   2px  0px 0 black;
+    font-weight: bold;
+}
