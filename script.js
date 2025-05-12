@@ -61,7 +61,7 @@ map.on('click', async function(e) {
         `<strong>Distância:</strong> ${distance.toFixed(2)} KM<br>
          <strong>Tempo estimado:</strong> ${duration.toFixed(1)} minutos de carro`;
     } else {
-      alert('Erro ao calcular a rota.');
+      alert('Erro ao calcular rota');
     }
   }
 });

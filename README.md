@@ -1,17 +1,24 @@
 
 # API de calculo de rotas
 
-Uma breve descrição sobre o que esse projeto faz e para quem ele é
+Uma ferramenta de cálculo de rotas de carros entre dois pontos.
 
 
-URL
-
-## 🚀 Sobre mim
-Eu sou uma pessoa desenvolvedora full-stack...
+URL: https://github.com/Jean-Dalpra/api-mapa.git
 
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
+## 🔗 Link da API
+
+https://api.openrouteservice.org/
+
+
+## Funcionalidades
+
+- Mapa interativo em escala global
+- Cálculo de rotas usando API
+- Resultados de distâncias e horas de viagem a caro.
+
+## Instalação e Uso
+
+Para usar a ferramenta, basta baixar o projeto pelo link do github, e então executar a index.html, ou copiar os arquivos, colar em um editor de código (VScode), e usar a extensão Go Live. 
